@@ -36,14 +36,24 @@ em eficiência, propósito e mensuração de impacto.
 Planejamento e execução de oficinas práticas com foco em geração de renda,
 organização financeira e fortalecimento da autonomia feminina.
 
-## 📚 Oficinas
+## 📚 Oficinas para Mulheres Empreendedoras (treinamentos)
 
-### 💡 Oficina de Marketing para Mulheres Empreendedoras
+### 💡 Oficina de Marketing
 
-Materiais utilizados:
+- 📊 [Slides da Oficina](https://github.com/cidajustiniano/cidajustiniano/blob/main/AUL%C3%83O%20MKT.pdf)
 
-- 📊 [Slides da Oficina](LINK_AQUI)
+### 💡 Oficina de Pitch
 
+- 📊 [Slides da Oficina](https://github.com/cidajustiniano/cidajustiniano/blob/main/AUL%C3%83O%20MKT.pdf)
+
+### 💡 Oficina de Finanças
+
+- 📊 [Slides da Oficina](https://github.com/cidajustiniano/cidajustiniano/blob/main/AUL%C3%83O%20MKT.pdf)
+
+### 💡 Oficina de Gestão de Tempo
+
+- 📊 [Slides da Oficina](https://github.com/cidajustiniano/cidajustiniano/blob/main/AUL%C3%83O%20MKT.pdf)
+  
 ---
 
 ## 📫 Contato
