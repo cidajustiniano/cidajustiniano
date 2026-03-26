@@ -54,7 +54,7 @@ organização financeira e fortalecimento da autonomia feminina.
 
 ### 💡 Oficina de Gestão de Tempo
 
-- 📊 [Slides da Oficina](https://github.com/cidajustiniano/cidajustiniano/blob/main/AUL%C3%83O%20Planejamento.pdf)
+- 📊 [Slides da Oficina](https://github.com/cidajustiniano/cidajustiniano/blob/main/Empreende%20Nexa%20Ano%202%20-%20Oficina%20Gest%C3%A3o%20do%20Tempo.pdf)
 
 ### 💡 Oficina de Planejamento
 
