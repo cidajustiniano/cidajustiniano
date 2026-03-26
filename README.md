@@ -36,6 +36,14 @@ em eficiência, propósito e mensuração de impacto.
 Planejamento e execução de oficinas práticas com foco em geração de renda,
 organização financeira e fortalecimento da autonomia feminina.
 
+## 📚 Oficinas
+
+### 💡 Oficina de Marketing para Mulheres Empreendedoras
+
+Materiais utilizados:
+
+- 📊 [Slides da Oficina](LINK_AQUI)
+
 ---
 
 ## 📫 Contato
