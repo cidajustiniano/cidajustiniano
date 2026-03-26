@@ -48,11 +48,9 @@ organização financeira e fortalecimento da autonomia feminina.
 
 ### 💡 Oficina de Finanças
 
-- 📊 [Slides da Oficina Pitch](https://github.com/cidajustiniano/cidajustiniano/blob/main/Mentoria%20Pitch%20-%20Aula01-v1.1.pdf)
-- 📊 [Slides da Oficina - Esmalteria].(https://github.com/cidajustiniano/cidajustiniano/blob/main/Modelo%20Financeiro%20para%20a%20Esmalteria.pdf)
-- 📊 [Slides da Oficina - Social Mídia](https://github.com/cidajustiniano/cidajustiniano/blob/main/Oficina%20Ana%20Flavia%20%202.0.pdf))
+- 📊 [Slides da Oficina - Esmalteria](https://github.com/cidajustiniano/cidajustiniano/blob/main/Modelo%20Financeiro%20para%20a%20Esmalteria.pdf)
+- 📊 [Slides da Oficina - Social Mídia](https://github.com/cidajustiniano/cidajustiniano/blob/main/Oficina%20Ana%20Flavia%20%202.0.pdf)
 - 📊 [Slides da Oficina - Floricultura](https://github.com/cidajustiniano/cidajustiniano/blob/main/Modelo%20Financeiro%20para%20a%20Esmalteria.pdf)
-- 📊 [Slides da Oficina - Social Mídia](https://github.com/cidajustiniano/cidajustiniano/blob/main/Oficina%20Ana%20Flavia%20%202.0.pdf))
 
 ### 💡 Oficina de Gestão de Tempo
 
